@@ -1,0 +1,11 @@
+Id,SaleDate,SaleItem,Country,Quantity
+1,2025-02-10,Laptop,Canada,6
+2,2025-03-02,Phone,Canada,11
+3,2025-01-24,Camera,Canada,4
+4,2025-02-04,Tablet,Canada,8
+5,2025-03-08,Headphones,Canada,9
+6,2025-01-14,Monitor,Canada,3
+7,2025-02-18,Keyboard,Canada,7
+8,2025-03-11,Mouse,Canada,10
+9,2025-01-27,Laptop,Canada,12
+10,2025-02-06,Phone,Canada,5

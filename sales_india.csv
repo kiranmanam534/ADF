@@ -1,0 +1,11 @@
+Id,SaleDate,SaleItem,Country,Quantity
+1,2025-02-14,Laptop,India,5
+2,2025-03-01,Phone,India,12
+3,2025-01-28,Camera,India,3
+4,2025-02-05,Tablet,India,7
+5,2025-03-10,Headphones,India,9
+6,2025-01-18,Monitor,India,4
+7,2025-02-22,Keyboard,India,6
+8,2025-03-14,Mouse,India,11
+9,2025-01-30,Laptop,India,8
+10,2025-02-09,Phone,India,10

@@ -1,0 +1,22 @@
+[
+ {"payment_id":1,"order_id":101,"amount":500,"method":"UPI"},
+ {"payment_id":2,"order_id":102,"amount":1200,"method":"Card"},
+ {"payment_id":3,"order_id":103,"amount":800,"method":"NetBanking"},
+ {"payment_id":4,"order_id":104,"amount":1500,"method":"Card"},
+ {"payment_id":5,"order_id":105,"amount":2000,"method":"UPI"},
+ {"payment_id":6,"order_id":106,"amount":300,"method":"UPI"},
+ {"payment_id":7,"order_id":107,"amount":700,"method":"Card"},
+ {"payment_id":8,"order_id":108,"amount":400,"method":"UPI"},
+ {"payment_id":9,"order_id":109,"amount":950,"method":"NetBanking"},
+ {"payment_id":10,"order_id":110,"amount":1100,"method":"Card"},
+ {"payment_id":11,"order_id":111,"amount":600,"method":"UPI"},
+ {"payment_id":12,"order_id":112,"amount":1300,"method":"Card"},
+ {"payment_id":13,"order_id":113,"amount":1700,"method":"UPI"},
+ {"payment_id":14,"order_id":114,"amount":900,"method":"NetBanking"},
+ {"payment_id":15,"order_id":115,"amount":450,"method":"UPI"},
+ {"payment_id":16,"order_id":116,"amount":2200,"method":"Card"},
+ {"payment_id":17,"order_id":117,"amount":800,"method":"UPI"},
+ {"payment_id":18,"order_id":118,"amount":1200,"method":"Card"},
+ {"payment_id":19,"order_id":119,"amount":500,"method":"UPI"},
+ {"payment_id":20,"order_id":120,"amount":1400,"method":"NetBanking"}
+]

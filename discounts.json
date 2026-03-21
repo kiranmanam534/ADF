@@ -1,0 +1,22 @@
+[
+ {"product_id":1,"discount":10},
+ {"product_id":2,"discount":5},
+ {"product_id":3,"discount":15},
+ {"product_id":4,"discount":8},
+ {"product_id":5,"discount":12},
+ {"product_id":6,"discount":7},
+ {"product_id":7,"discount":6},
+ {"product_id":8,"discount":18},
+ {"product_id":9,"discount":9},
+ {"product_id":10,"discount":14},
+ {"product_id":11,"discount":11},
+ {"product_id":12,"discount":13},
+ {"product_id":13,"discount":4},
+ {"product_id":14,"discount":16},
+ {"product_id":15,"discount":10},
+ {"product_id":16,"discount":5},
+ {"product_id":17,"discount":7},
+ {"product_id":18,"discount":6},
+ {"product_id":19,"discount":20},
+ {"product_id":20,"discount":3}
+]

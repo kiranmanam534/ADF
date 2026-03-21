@@ -1,0 +1,22 @@
+[
+ {"country":"India","rate":50},
+ {"country":"USA","rate":100},
+ {"country":"UK","rate":90},
+ {"country":"Canada","rate":110},
+ {"country":"Australia","rate":120},
+ {"country":"Germany","rate":95},
+ {"country":"France","rate":85},
+ {"country":"Italy","rate":80},
+ {"country":"Spain","rate":75},
+ {"country":"Netherlands","rate":88},
+ {"country":"Singapore","rate":70},
+ {"country":"UAE","rate":65},
+ {"country":"Japan","rate":105},
+ {"country":"China","rate":95},
+ {"country":"Brazil","rate":115},
+ {"country":"Mexico","rate":100},
+ {"country":"South Africa","rate":110},
+ {"country":"Russia","rate":120},
+ {"country":"Sweden","rate":98},
+ {"country":"Norway","rate":102}
+]

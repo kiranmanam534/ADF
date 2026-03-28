@@ -1,3 +1,4 @@
+[
 {"driverId":1,"driverRef":"hamilton","number":44,"code":"HAM","name":{"forename":"Lewis","surname":"Hamilton"},"dob":"1985-01-07","nationality":"British","url":"http://en.wikipedia.org/wiki/Lewis_Hamilton"}
 {"driverId":2,"driverRef":"heidfeld","number":"\\N","code":"HEI","name":{"forename":"Nick","surname":"Heidfeld"},"dob":"1977-05-10","nationality":"German","url":"http://en.wikipedia.org/wiki/Nick_Heidfeld"}
 {"driverId":3,"driverRef":"rosberg","number":6,"code":"ROS","name":{"forename":"Nico","surname":"Rosberg"},"dob":"1985-06-27","nationality":"German","url":"http://en.wikipedia.org/wiki/Nico_Rosberg"}
@@ -851,3 +852,4 @@
 {"driverId":852,"driverRef":"tsunoda","number":"\\N","code":"TSU","name":{"forename":"Yuki","surname":"Tsunoda"},"dob":"2000-05-11","nationality":"Japanese","url":"http://en.wikipedia.org/wiki/Yuki_Tsunoda"}
 {"driverId":853,"driverRef":"mazepin","number":"\\N","code":"MAZ","name":{"forename":"Nikita","surname":"Mazepin"},"dob":"1999-03-02","nationality":"Russian","url":"http://en.wikipedia.org/wiki/Nikita_Mazepin"}
 {"driverId":854,"driverRef":"mick_schumacher","number":"\\N","code":"SCH","name":{"forename":"Mick","surname":"Schumacher"},"dob":"1999-03-22","nationality":"German","url":"http://en.wikipedia.org/wiki/Mick_Schumacher"}
+]]
